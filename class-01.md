@@ -26,7 +26,6 @@ Logical Operators are used in media queries to help build expressions. There are
 3. only 
 
 **and** allows an extra condition to be added. **not** negates the query.
-[and](images/and.jpeg)
 
 ## Media Features
 One of the most common media features is using the **Height and Width** which help build responsive websites on desktops and mobile devices. Other media features include: Aspect and Pixel ratios and identifying available output colors.
