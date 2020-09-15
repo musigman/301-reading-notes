@@ -1,4 +1,4 @@
-## Reading Day: 09.13.20
+## Reading Day: 09.14.20
 # The Quest to Build the Perfect Team
 Julia Rozovsky tells her storie of working together in group settings. The first setting was a study group that was stressful due to competitive dynamics of the team members. She talks about the feeling of having to ‘prove herself’ in a critical environment.
 
