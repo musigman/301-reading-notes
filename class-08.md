@@ -27,6 +27,6 @@ This command is similar to the *insert* statement. You have to specify exactly w
 Deleting rows has never been more exiting! No, I'm kidding. When you need to delete data from a table in the database, you use the **Delete** statement.
 
 ## Tables
-New tables are created using the **Create Table** statement. The **Alter Tables** command allows you to add, remove or modify columns and table constraints. Using the ** Drop Table** statement, You are able to remove and entire table including all data and metadata.
+New tables are created using the **Create Table** statement. The **Alter Tables** command allows you to add, remove or modify columns and table constraints. Using the **Drop Table** statement, You are able to remove and entire table including all data and metadata.
 
 [<== Back to Table of Contents](index.md)
