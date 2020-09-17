@@ -10,6 +10,7 @@
 1. [Node.js](https://musigman.github.io/301-reading-notes/class-06.html)
 1. [REST](https://musigman.github.io/301-reading-notes/class-07.html)
 1. [SQL](https://musigman.github.io/301-reading-notes/class-08.html)
+1. [Functional Programming](https://musigman.github.io/301-reading-notes/class-09.html)
 
 
 
