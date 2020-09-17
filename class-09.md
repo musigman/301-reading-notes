@@ -15,9 +15,9 @@ This idea of pure functions is new and is a bit abstract right now. Pure functio
 ## Pure Benefits
 Pure Functions are easier to test with different contexts:
 
-- **Given a parameter **A** -> Expect the fuction to return value **B**.
+- **Given a parameter A** -> Expect the fuction to return value **B**.
 
-- **Given a parameter **C** -> Expect the functioning to return value **D**.
+- **Given a parameter C** -> Expect the functioning to return value **D**.
 
 Pure Functions are immutable. They are unchanging over time or unable to be changed.
 When Data is immutable, it's state cannot change after it's created. You have to create a new object with the new value.
