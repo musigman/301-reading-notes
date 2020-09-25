@@ -16,7 +16,5 @@
 1. [EJS Partials](https://musigman.github.io/301-reading-notes/class-12.html)
 1. [EJS Partials](https://musigman.github.io/301-reading-notes/class-13.html)
 1. [DataBase Normalization](https://musigman.github.io/301-reading-notes/class-14.html)
-
-
-
+1. [Diversity and Inclusion](https://musigman.github.io/301-reading-notes/class-15.html)
 
